@@ -1,0 +1,13 @@
+Outputs from Different Models -
+
+1. DecisionTreeRegressor - 
+    Mean : 54.047152341256165
+    Standard Deviation : 16.238916632165285
+
+2. LinearRegression -
+    Mean : 59.390728145361706
+    Standard Deviation : 18.344360151354515
+
+3. RandomForestRegressor -
+    Mean : 49.61956191183147
+    Standard Deviation : 11.162923941080658
